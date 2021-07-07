@@ -1,0 +1,171 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Condensed:wght@300;400&family=Roboto:wght@300;400;500&display=swap');
+body{
+
+    margin: 0;
+    padding: 0;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#header{
+    background-image: url(icon/biography-bg.png);
+    background-repeat: no-repeat;
+}
+#image img{
+    width: 100%;
+    height: 450px;
+    margin-right: 100px;
+}
+#detail h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 50px;
+    color: #FA804C;
+}
+.span{
+    color: black;
+}
+#detail button{
+    box-sizing: border-box;
+   
+    padding: 10px 28px;
+    border: none;
+    background-color:lightsalmon;
+    color: cornsilk;
+    border-radius: 7px;
+    outline: 0;
+}
+#detail button:hover{
+    padding: 13px 33px;
+    background-color:#3A4ADE;
+}
+#detail p{
+    font-family: 'Roboto', sans-serif;
+}
+#detail button img{
+    width: 35px;
+    height: 30px;
+}
+.main{
+    background-image: url(icon/biography-bg.png);
+    background-repeat: no-repeat;
+
+}
+.main h1{
+    font-family: 'Bebas Neue', cursive; 
+}
+
+
+#cardMain img{
+    background-color: #F1F1F1;
+    border-radius: 13px;
+}
+/* #body{
+    border-radius: 13px;
+    outline: 0; 
+} */
+#card{
+    border: none;
+    background: #FFFFFF;
+    margin: 0 20px;
+        
+    
+}
+#card button{
+   border: 2px solid #3A4ADE;
+   border-radius: 7px;
+   background-color:#3A4ADE;
+   color: cornsilk;
+   padding: 7px 24px;
+   outline: 0;
+   
+    
+}
+
+
+#card button i{
+    width: 25px;
+    height: 20px;
+   
+}
+#price{
+    color: #FA804C; 
+}
+#card2 #card{
+    border: none;
+}
+#shopping-card{
+    background: url(icon/biography-bg.png);
+    background-repeat: no-repeat;
+}
+#card3 img{
+    width: 100%;
+    height: auto;
+}
+ #shopping img{
+    width: 90px;
+    height: 90px;
+    margin-top: 10px;
+} 
+#card3 #shopping{
+    width: 550px;
+    height: 120px;
+    margin-top: 14px;
+    padding: 5px;
+    border-radius: 15px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.text-title{
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+/* contact */
+#contact{
+    background: url(icon/biography-bg.png);
+}
+.highlight{
+    color: #FA804C;
+}
+ #contact #contactId{
+     text-align: center;
+     border: none;
+     width: 100%;
+     height: 200px;
+     padding:10px;
+     margin: 10px;
+     line-height: normal;
+     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+     border-radius: 15px;
+ } 
+ #contactId img
+  {
+    margin-top: 10px;
+  } 
+  #contactId p{
+   margin-bottom: 5px;
+  } 
+   
+
+
+/* end  *//* end  */
+#footer h1{
+font-family: 'Roboto', sans-serif;
+font-size: 14px;
+text-align: center;
+color: white;
+}
+#footer h3{
+font-family: 'Roboto', sans-serif;
+font-size: 12px;
+text-align: center;
+color: white;
+}
+.high{
+color:black;
+}
+.footer-item{
+background-color: gray;
+margin:0;
+padding: 0;
+}
